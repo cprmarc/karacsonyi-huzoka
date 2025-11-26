@@ -18,9 +18,9 @@ export const VALID_NAMES = ['Anya', 'Pisti', 'Marci', 'Balázs', 'Bence', 'Zsani
 
 // A kulcsok kisbetűsítve a könnyebb keresés érdekében
 export const PAIRINGS: Record<string, string> = {
-  "anya": "Bence",
+  "anya": "Zsani",
   "bence": "Marci",
-  "marci": "Zsani",
+  "marci": "Bence",
   "zsani": "Pisti",
   "pisti": "Balázs",
   "balázs": "Bogi",
